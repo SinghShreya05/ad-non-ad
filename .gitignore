@@ -1,0 +1,9 @@
+*.png
+*.npy
+models
+dataset
+*.keras
+*.h5
+*.ipynb
+*.pyc
+
